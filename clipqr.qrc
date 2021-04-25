@@ -1,0 +1,15 @@
+<RCC>
+<qresource prefix="/">
+    <file>images/barcode_2d.png</file>
+    <file>images/barcode_2d_16.png</file>
+    <file>images/barcode_2d_32.png</file>
+    <file>images/cog.png</file>
+    <file>images/diskette.png</file>
+    <file>images/door.png</file>
+    <file>images/edit_button.png</file>
+    <file>images/file_extension_jpg.png</file>
+    <file>images/file_extension_png.png</file>
+    <file>images/paste_plain.png</file>
+    <file>images/update.png</file>
+</qresource>
+</RCC>
